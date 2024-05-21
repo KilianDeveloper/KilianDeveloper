@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [kilian-dev.com](kilian-dev.com)
 
-- 💬 Ask me about **GraphQL, MongoDB, Redis**
+- 🌱 I’m currently learning **GraphQL, MongoDB, Redis**
 
 - ⚡ Fun fact **I started coding when I was 11 with Minecraft Plugins**
 
